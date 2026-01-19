@@ -3,7 +3,7 @@ import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer } from 'recha
 import { Upload, TrendingUp, Users, MessageSquare, Clock, Download, Sparkles, AlertTriangle, Lightbulb, Hash, Award, Loader2, FileJson, Calendar } from 'lucide-react';
 
 // !!! IMPORTANT: PASTE YOUR GEMINI API KEY HERE !!!
-const GEMINI_API_KEY = 'AIzaSyBxYBVc6ONa0qZudX2-e5p5xRVMN0ba9Nw'; 
+const GEMINI_API_KEY = 'api key here'; 
 
 // !!! EDIT THIS LIST: Add the exact names of the files you put in your public folder !!!
 const DEFAULT_FILES = [
@@ -1052,3 +1052,4 @@ Answer based on the data above. Be specific and cite examples when possible.`;
     </div>
   );
 }
+
